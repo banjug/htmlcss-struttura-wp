@@ -11,6 +11,49 @@ header {
     margin: 0 auto;
 }
 
+main {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.jumbotron {
+    height: 300px;
+    background-color: #e1d67a;
+}
+
+.container {
+    background-color: #0086ff;
+    margin-bottom: 20px;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.sectionHeader {
+    width: 100%;
+    height: 50px;
+    background-color: #abcfe7;
+}
+
+.sidebar {
+    float: left;
+    width: 18%;
+    height: 300px;
+    background-color: #abcfe7;
+    margin: 2% 0;
+}
+
+.article {
+    float: left;
+    width: 60%;
+    height: 300px;
+    background-color: #abcfe7;
+    margin: 2%;
+}
+
 footer {
     width: 85%;
     height: 100px;
