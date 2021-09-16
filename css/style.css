@@ -4,3 +4,16 @@
     padding: 0;
 }
 
+header {
+    width: 85%;
+    height: 100px;
+    background-color: #e579e6;
+    margin: 0 auto;
+}
+
+footer {
+    width: 85%;
+    height: 100px;
+    background-color: #8801fe;
+    margin: 0 auto;
+}
