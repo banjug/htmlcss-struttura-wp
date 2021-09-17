@@ -4,7 +4,9 @@
     padding: 0;
 }
 
-body {
+
+/* contenitore centratura */
+.containerBody {
     width: 65%;
     margin: 0 auto;
 }
@@ -23,7 +25,7 @@ header {
 }
 
 /* contenitore clearfix  */
-.container {
+.containerMain {
     background-color: #0086ff;
     margin-bottom: 10px;
 }
